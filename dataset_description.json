@@ -1,0 +1,19 @@
+{
+    "Name": "Braille letters - fMRI",
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Marleen Haupt",
+        "Monika Graumann",
+        "Santani Teng",
+        "Carina Kaltenbach",
+        "Radoslaw M. Cichy"
+    ],
+    "Funding":[
+        "CI241/1-1",
+        "CI241/3-1",
+        "CI241/7-1",
+        "ERC-StG-2018-803370"
+            ],
+    "License": "CC0"
+}
