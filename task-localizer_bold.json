@@ -57,5 +57,5 @@
   "SoftwareVersions": "syngo MR B17",
   "SpacingBetweenSlices": 3.6,
   "StationName": "MRC35370",
-  "TaskName": "TODO: full task name for localizer",
+  "TaskName": "localizer",
   "TotalReadoutTime": 0.0166951}
